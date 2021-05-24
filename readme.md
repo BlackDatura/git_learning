@@ -40,6 +40,6 @@
 7. 删除按钮同时清除菜单权限，菜单角色权限
 8. 删除角色同时清除菜单角色权限
 
-#### 项目截图
+#### 项目截
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0620/133448_cd9a4888_1130037.jpeg "1.jpg")
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0620/133502_f04776ed_1130037.png "2.png")
