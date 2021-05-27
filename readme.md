@@ -1,1 +1,1 @@
-This is a pravtice for git
+This is a practice for git
